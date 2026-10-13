@@ -529,12 +529,4 @@ Potential future enhancements include:
 * CI browser matrix testing
 * Integration with a test management system
 
----
 
-# 👩‍💻 Author
-
-**Aagy Paulose**
-
-QA Engineer | Manual & Automation Testing | Selenium | Java | API Testing | BDD
-
-GitHub: [@testwithAagy](https://github.com/testwithAagy)
